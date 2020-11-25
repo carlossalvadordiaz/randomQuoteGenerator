@@ -17,4 +17,4 @@
 ### Overview
 
 ![ScreenShot](https://raw.github.com/carlossalvadordiaz/
-randomQuoteGenerator/images/rqg.png)
+randomQuoteGenerator/master/images/rqg.png)
